@@ -20,8 +20,9 @@ The following **bonus** features are implemented:
 - [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
+Here's a walkthrough of the Twitter application:
 
-Here's a walkthrough of implemented user stories:
+![](FlixAppPart2.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with [Gifski](https://apps.apple.com/us/app/gifski/id1351639930?mt=12).
 
