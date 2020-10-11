@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of the Twitter application:
 
-![](FlixAppPart2.gif)
+![](TwitterAppGif.gif)
 
 GIF created with [Gifski](https://apps.apple.com/us/app/gifski/id1351639930?mt=12).
 
